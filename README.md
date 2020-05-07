@@ -1,4 +1,4 @@
-# UBC DSCI 100 2018W Final Project
+# UBC DSCI (Data Science) 100 2018W Final Project
 This is my group's final project in the 2018W2 offering of the DSCI 100 course.
 
 Essentially, we sought to determine the optimal first medical test to perform when diagnosing for Chronic Kidney Disease (CKD). The data we worked with was a tabular summary of the results arising from various medical tests performed on 400 individuals, as well as a column indicating whether each individual had CKD. 
